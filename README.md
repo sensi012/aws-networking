@@ -40,7 +40,3 @@ The output returned the public IP of the NAT Gateway, confirming outbound intern
 - **Stateless**: Inbound and outbound rules are separate.
 - **Rules**: Allowed all traffic for demonstration (rules 100 for both directions).
 - **Associated with private subnets**.
-
-### JSON Configuration
-- [nacl-inbound.json](config/nacl-inbound.json)
-- [nacl-outbound.json](config/nacl-outbound.json)
